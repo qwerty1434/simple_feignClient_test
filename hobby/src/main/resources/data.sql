@@ -1,0 +1,3 @@
+-- DROP DATABASE IF EXISTS hobby_db;
+-- CREATE SCHEMA hobby_db;
+-- USE hobby_db;
