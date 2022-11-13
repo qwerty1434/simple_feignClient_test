@@ -11,8 +11,8 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/hobby_db
     driver-class-name: com.mysql.cj.jdbc.Driver
-    username: ssafy
-    password: ssafy
+    username: my_id
+    password: my_pw
 eureka:
   instance:
     instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
